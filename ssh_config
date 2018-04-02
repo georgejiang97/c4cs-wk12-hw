@@ -7,5 +7,5 @@ Host github.com
 # CAEN
 Host mmd
   HostName login.engin.umich.edu
-  User mmdarden
+  User georgjia
   Compression yes
