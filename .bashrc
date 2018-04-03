@@ -1,2 +1,5 @@
 alias mpowered='ssh -i ~/.ssh/mpowered.pem ubuntu@mpowered.umich.edu'
-# There's nothing else here. Lame, I know.
+alias ..='cd ..'
+alias c='clear'
+alias lsa='ls -a'
+alias tgz='tar -zxvf'
