@@ -1,4 +1,9 @@
 README.md
 .DS_Store
 *.pyc
-# I want to only track the dotfiles I have!
+*.o
+*.exe
+*.app
+*.out
+__pycache__/
+# I mainly use python and c++, so I'm making sure those files aren't being committed.
